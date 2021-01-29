@@ -44,47 +44,47 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
     <Reference Include="Vim.BFast">
-      <HintPath>..\..\..\..\..\..\..\Program Files\VIM\Viewer\Vim.BFast.dll</HintPath>
+      <HintPath>C:\Program Files\VIM\Viewer\Vim.BFast.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Vim.Constants">
-      <HintPath>..\..\..\..\..\..\..\Program Files\VIM\Viewer\Vim.Constants.dll</HintPath>
+      <HintPath>C:\Program Files\VIM\Viewer\Vim.Constants.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Vim.Desktop.Api">
-      <HintPath>..\..\..\..\..\..\..\Program Files\VIM\Viewer\Vim.Desktop.Api.dll</HintPath>
+      <HintPath>C:\Program Files\VIM\Viewer\Vim.Desktop.Api.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Vim.Desktop.Camera.Plugin">
-      <HintPath>..\..\..\..\..\..\..\Program Files\VIM\Viewer\Vim.Desktop.Camera.Plugin.dll</HintPath>
+      <HintPath>C:\Program Files\VIM\Viewer\Vim.Desktop.Camera.Plugin.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Vim.DotNetUtilities">
-      <HintPath>..\..\..\..\..\..\..\Program Files\VIM\Viewer\Vim.DotNetUtilities.dll</HintPath>
+      <HintPath>C:\Program Files\VIM\Viewer\Vim.DotNetUtilities.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Vim.G3d">
-      <HintPath>..\..\..\..\..\..\..\Program Files\VIM\Viewer\Vim.G3d.dll</HintPath>
+      <HintPath>C:\Program Files\VIM\Viewer\Vim.G3d.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Vim.Geometry">
-      <HintPath>..\..\..\..\..\..\..\Program Files\VIM\Viewer\Vim.Geometry.dll</HintPath>
+      <HintPath>C:\Program Files\VIM\Viewer\Vim.Geometry.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Vim.Huddle.Client">
-      <HintPath>..\..\..\..\..\..\..\Program Files\VIM\Viewer\Vim.Huddle.Client.dll</HintPath>
+      <HintPath>C:\Program Files\VIM\Viewer\Vim.Huddle.Client.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Vim.Huddle.Core">
-      <HintPath>..\..\..\..\..\..\..\Program Files\VIM\Viewer\Vim.Huddle.Core.dll</HintPath>
+      <HintPath>C:\Program Files\VIM\Viewer\Vim.Huddle.Core.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Vim.LinqArray">
-      <HintPath>..\..\..\..\..\..\..\Program Files\VIM\Viewer\Vim.LinqArray.dll</HintPath>
+      <HintPath>C:\Program Files\VIM\Viewer\Vim.LinqArray.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Vim.Math3d">
-      <HintPath>..\..\..\..\..\..\..\Program Files\VIM\Viewer\Vim.Math3d.dll</HintPath>
+      <HintPath>C:\Program Files\VIM\Viewer\Vim.Math3d.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="WindowsBase" />
